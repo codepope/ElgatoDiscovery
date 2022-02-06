@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2236F3F827B06C4300B10490 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2236F3F727B06C4300B10490 /* main.swift */; };
+		2236F3F827B06C4300B10490 /* ElgatoDiscovery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2236F3F727B06C4300B10490 /* ElgatoDiscovery.swift */; };
+		2236F3FF27B0717E00B10490 /* LightTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2236F3FE27B0717E00B10490 /* LightTracker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +25,8 @@
 
 /* Begin PBXFileReference section */
 		2236F3F427B06C4300B10490 /* ElgatoDiscovery */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ElgatoDiscovery; sourceTree = BUILT_PRODUCTS_DIR; };
-		2236F3F727B06C4300B10490 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		2236F3F727B06C4300B10490 /* ElgatoDiscovery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElgatoDiscovery.swift; sourceTree = "<group>"; };
+		2236F3FE27B0717E00B10490 /* LightTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LightTracker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +59,8 @@
 		2236F3F627B06C4300B10490 /* ElgatoDiscovery */ = {
 			isa = PBXGroup;
 			children = (
-				2236F3F727B06C4300B10490 /* main.swift */,
+				2236F3F727B06C4300B10490 /* ElgatoDiscovery.swift */,
+				2236F3FE27B0717E00B10490 /* LightTracker.swift */,
 			);
 			path = ElgatoDiscovery;
 			sourceTree = "<group>";
@@ -120,7 +123,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2236F3F827B06C4300B10490 /* main.swift in Sources */,
+				2236F3F827B06C4300B10490 /* ElgatoDiscovery.swift in Sources */,
+				2236F3FF27B0717E00B10490 /* LightTracker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
